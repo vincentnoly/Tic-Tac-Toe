@@ -8,4 +8,7 @@
     <string name="Player1">Player 1</string>
     <string name="Player2">Player 2</string>
     <string name="submitButton">Submit</string>
+
+    <string name="playAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
 </resources>
